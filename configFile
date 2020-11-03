@@ -1,0 +1,9 @@
+tcpServerIP:localhost
+tcpServerPort:2000
+mcPort:2001
+mcIP:225.1.1.1
+rmiServerPort:2002
+udpPort:2003
+udpIP:localhost
+
+  
